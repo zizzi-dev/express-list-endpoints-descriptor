@@ -1,0 +1,31 @@
+{
+  "name": "express-list-endpoints-descriptor",
+  "version": "1.0.10",
+  "description": "list all Endpoints registered into an express app with description user defined to build documentation",
+  "main": "index.js",
+  
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "endpoints",
+    "express",
+    "documentation",
+    "descriptor",
+    "list",
+    "API"
+  ],
+  "author": "Alberto Ziliotto",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zizzi-dev/express-list-endpoints-descriptor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zizzi-dev/express-list-endpoints-descriptor/issues"
+  },
+  "homepage": "https://github.com/zizzi-dev/express-list-endpoints-descriptor#readme"
+}
