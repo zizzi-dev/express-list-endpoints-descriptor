@@ -32,7 +32,7 @@ app.listen(8080, function () {
 });
 ```
 
-# Example of return object in `/api`
+# Browsing `http://localhost:8080/api` will return
 ```sh
 [
     {

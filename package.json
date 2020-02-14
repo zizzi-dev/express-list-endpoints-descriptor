@@ -1,6 +1,6 @@
 {
   "name": "express-list-endpoints-descriptor",
-  "version": "1.0.10",
+  "version": "1.0.12",
   "description": "list all Endpoints registered into an express app with description user defined to build documentation",
   "main": "index.js",
   
