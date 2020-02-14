@@ -16,7 +16,12 @@
     "documentation",
     "descriptor",
     "list",
-    "API"
+    "API",
+    "route",
+    "endpoint",
+    "ls",
+    "verb",
+    "verbs"
   ],
   "author": "Alberto Ziliotto",
   "license": "ISC",
