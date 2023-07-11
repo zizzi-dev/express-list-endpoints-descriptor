@@ -228,7 +228,7 @@ module.exports = router;
 
 # Installation
 ```sh
-npm istall express-list-endpoints-descriptor
+npm install express-list-endpoints-descriptor
 ```
 
 License
